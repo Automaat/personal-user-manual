@@ -36,7 +36,7 @@ This document serves as a brief introduction to what I value and believe in as a
 - I value people that can change their mind when data is clearly against them
 - I believe that all people are equal, and I can't stand when someone isn't treating me seriously
 
-## Gallup CliftonStrengths TOP talents
+## Gallup CliftonStrengths top talents
 1. Learner
 2. Achiever
 3. Ideation
