@@ -35,3 +35,23 @@ This document serves as a brief introduction to what I value and believe in as a
 - I don't believe in blaming people. We can always fix what's not working.
 - I value people that can change their mind when data is clearly against them
 - I believe that all people are equal, and I can't stand when someone isn't treating me seriously
+
+## Gallup CliftonStrengths TOP talents
+1. Learner
+2. Achiever
+3. Ideation
+4. Analytical
+5. Strategic
+6. Input
+7. Significance
+8. Intellection
+9. Individualization
+10. Activator
+
+More on CliftonStrenghts can be found [here](https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx)
+
+## DISC
+`Dominance` and `Conscientiousness`
+
+More on DISC can be found [here](https://www.discprofile.com/what-is-disc/disc-styles)
+
